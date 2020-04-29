@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T09:50:08.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="nQd1ya6Ehf4wI_4t_s9G" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-29T10:40:38.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="h0aQQ3RmevSbiHTPiyeA" version="12.9.13" type="github">
   <diagram id="-0Z-iGZKRTbD8zX1hJ86" name="Page-1">
     <mxGraphModel dx="2702" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="g2eO_3g-GpQszgem91Em-19" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" vertex="1" parent="1">
           <mxGeometry x="715" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g2eO_3g-GpQszgem91Em-20" value="Recolte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
