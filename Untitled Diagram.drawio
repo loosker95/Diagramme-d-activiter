@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-14T21:02:16.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="DUWUalLZbTCbSUQIyz5L" version="13.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-14T21:03:22.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="5eGvw6p26J7-HluL6lb9" version="13.0.3" type="github">
   <diagram id="-0Z-iGZKRTbD8zX1hJ86" name="Page-1">
     <mxGraphModel dx="2346" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="g2eO_3g-GpQszgem91Em-34" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;" parent="1" vertex="1">
           <mxGeometry x="620" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g2eO_3g-GpQszgem91Em-35" value="Dealer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="g2eO_3g-GpQszgem91Em-35" value="Retealler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="140" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g2eO_3g-GpQszgem91Em-43" value="Wholesaler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
